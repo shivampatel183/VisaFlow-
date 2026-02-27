@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Angular / build output
+dist/
+.angular/
+out-tsc/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test output
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+environment.ts
+environment.prod.ts
+
+# Temporary files
+*.tmp
+*.temp
