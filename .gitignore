@@ -24,7 +24,6 @@ coverage/
 # Environment files
 .env
 .env.*
-!.env.example
 environment.ts
 environment.prod.ts
 
