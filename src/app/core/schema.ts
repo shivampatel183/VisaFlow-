@@ -92,7 +92,7 @@ const VISA_APPLICATION: SectionDef = {
     {
       title: 'Other Names/Spellings (If Applicable)',
       fields: [
-        { key: 'reason_for_name_change', label: 'Reason for Name Change', type: 'select', options: ['', 'Deed Poll', 'Marriage', 'Other'] }
+        { key: 'reason_for_name_change', label: 'Reason for Name Change', type: 'select', options: ['Deed Poll', 'Marriage', 'Other'] }
       ]
     },
     {
