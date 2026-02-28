@@ -26,6 +26,7 @@ coverage/
 .env.*
 environment.ts
 environment.prod.ts
+!environment.template.ts
 
 # Temporary files
 *.tmp
